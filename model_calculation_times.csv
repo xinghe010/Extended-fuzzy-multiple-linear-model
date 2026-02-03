@@ -1,0 +1,4 @@
+Dataset,Model,Time (ms),Note
+Shanghai,RBF,1801.0189000051469,hesamian_rbf_fit_predict (M=10)
+Shanghai,M,1.659100002143532,fuzzy_six_linear_regression
+Shanghai,MM,3.536400035955012,calculate_mm_model (Prediction only)
